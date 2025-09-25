@@ -1,4 +1,4 @@
-# My dotfiles
+# Mis DotFiles para el entorno HyDE
 
 Este directorio contiene los dotfiles de mi sistema.
 
@@ -21,14 +21,14 @@ pacman -S stow
 Primero, verifica estar en el directorio de tu $HOME
 
 ```
-$ git clone git@github.com:KuantumQuest/MyDotFiles.git
-$ cd DofFiles
+git clone git@github.com:KuantumQuest/MyDotFiles.git
+cd DofFiles
 ```
 
 Ahora, crea los enlaces simbolicos usando stow
 
 ```
-$ stow .
+stow .
 ```
 
 ## Paquetes necesarios
@@ -69,5 +69,5 @@ $ stow .
 - btop
 
 ```bash
-$ paru -S gnupg pass pass-otp pass-coffin sxiv obsidian anki zen-browser zathura zathura-pdf-poppler sioyek lsd bat mpv wget nvim imagemagick tree-sitter-cli lazygit pyright gemini-cli texlive-full gimp wf-recorder cava cmatrix btop
+paru -S gnupg pass pass-otp pass-coffin sxiv obsidian anki zen-browser zathura zathura-pdf-poppler sioyek lsd bat mpv wget nvim imagemagick tree-sitter-cli lazygit pyright gemini-cli texlive-full gimp wf-recorder cava cmatrix btop
 ```
