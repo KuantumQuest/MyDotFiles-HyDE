@@ -1,0 +1,42 @@
+{
+  "sessionId": "684bf5dd-0a75-4bf6-a512-6640b6522e8a",
+  "projectHash": "ada922badf44a2b22b3781c3a9f3e45714f60196536f2b7657ad8b07dac0ae3b",
+  "startTime": "2025-09-19T10:06:41.296Z",
+  "lastUpdated": "2025-09-19T10:10:49.462Z",
+  "messages": [
+    {
+      "id": "76c0dfd4-974f-4e8e-81bd-a0af2fe1010d",
+      "timestamp": "2025-09-19T10:06:41.296Z",
+      "type": "user",
+      "content": "hola"
+    },
+    {
+      "id": "d9f3302e-d898-4194-9510-bfdf4c003bd1",
+      "timestamp": "2025-09-19T10:06:44.595Z",
+      "type": "gemini",
+      "content": "¡Hola! Soy un asistente de conocimiento personal. ¿En qué puedo ayudarte hoy?",
+      "thoughts": [
+        {
+          "subject": "Answering the Query",
+          "description": "I've received \"hola\" and am responding in kind. My immediate thought is to greet back and then transition towards offering assistance. I'm thinking about phrasing the question to gently guide them to describe their knowledge management needs.",
+          "timestamp": "2025-09-19T10:06:44.551Z"
+        }
+      ],
+      "tokens": {
+        "input": 8927,
+        "output": 17,
+        "cached": 0,
+        "thoughts": 37,
+        "tool": 0,
+        "total": 8981
+      },
+      "model": "gemini-2.5-pro"
+    },
+    {
+      "id": "dd087699-916c-4987-9447-b509d6873584",
+      "timestamp": "2025-09-19T10:10:49.462Z",
+      "type": "user",
+      "content": ":q"
+    }
+  ]
+}

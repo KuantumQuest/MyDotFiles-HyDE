@@ -1,0 +1,36 @@
+{
+  "sessionId": "0efef234-eb67-47af-9c34-ecb86669ac44",
+  "projectHash": "b899de0d42255c1d11c5a379f129fad820c921717154dfdb21c5327c4c318d06",
+  "startTime": "2025-09-19T09:30:19.430Z",
+  "lastUpdated": "2025-09-19T09:30:22.572Z",
+  "messages": [
+    {
+      "id": "b8e89546-2e8d-4477-b9d6-b7dc386f0058",
+      "timestamp": "2025-09-19T09:30:19.430Z",
+      "type": "user",
+      "content": "Hi!"
+    },
+    {
+      "id": "7a459969-ea36-4c95-ab60-fbee290d3752",
+      "timestamp": "2025-09-19T09:30:22.572Z",
+      "type": "gemini",
+      "content": "Hi there! How can I help you?",
+      "thoughts": [
+        {
+          "subject": "Crafting an Initial Response",
+          "description": "I've started by crafting a concise and friendly \"Hi!\" back to the user, as requested. Following this, I'm now focused on formulating a prompt to elicit a task. Considering phrasing that is both helpful and efficient, I'm aiming for a natural flow that encourages the user to share their needs.",
+          "timestamp": "2025-09-19T09:30:22.565Z"
+        }
+      ],
+      "tokens": {
+        "input": 7468,
+        "output": 9,
+        "cached": 0,
+        "thoughts": 40,
+        "tool": 0,
+        "total": 7517
+      },
+      "model": "gemini-2.5-pro"
+    }
+  ]
+}

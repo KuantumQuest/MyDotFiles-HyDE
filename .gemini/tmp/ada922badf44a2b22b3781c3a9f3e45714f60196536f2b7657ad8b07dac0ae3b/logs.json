@@ -1,0 +1,317 @@
+[
+  {
+    "sessionId": "9919f729-dd7d-40bf-bd64-aa0c7ae98797",
+    "messageId": 0,
+    "type": "user",
+    "message": "Presentate",
+    "timestamp": "2025-09-19T09:52:19.150Z"
+  },
+  {
+    "sessionId": "9919f729-dd7d-40bf-bd64-aa0c7ae98797",
+    "messageId": 1,
+    "type": "user",
+    "message": "/vim off",
+    "timestamp": "2025-09-19T09:53:05.637Z"
+  },
+  {
+    "sessionId": "9919f729-dd7d-40bf-bd64-aa0c7ae98797",
+    "messageId": 2,
+    "type": "user",
+    "message": "Quiero que busques el archivo \"Me gusta Dragon ball The Others\" y al final de todo el archivo, coloques un resumen de dicho archivo .md",
+    "timestamp": "2025-09-19T09:54:37.812Z"
+  },
+  {
+    "sessionId": "684bf5dd-0a75-4bf6-a512-6640b6522e8a",
+    "messageId": 0,
+    "type": "user",
+    "message": "hola",
+    "timestamp": "2025-09-19T10:06:40.603Z"
+  },
+  {
+    "sessionId": "684bf5dd-0a75-4bf6-a512-6640b6522e8a",
+    "messageId": 1,
+    "type": "user",
+    "message": "/chat list",
+    "timestamp": "2025-09-19T10:06:54.129Z"
+  },
+  {
+    "sessionId": "684bf5dd-0a75-4bf6-a512-6640b6522e8a",
+    "messageId": 2,
+    "type": "user",
+    "message": "/chat save tag1",
+    "timestamp": "2025-09-19T10:07:04.544Z"
+  },
+  {
+    "sessionId": "684bf5dd-0a75-4bf6-a512-6640b6522e8a",
+    "messageId": 3,
+    "type": "user",
+    "message": "/chat list",
+    "timestamp": "2025-09-19T10:07:09.396Z"
+  },
+  {
+    "sessionId": "684bf5dd-0a75-4bf6-a512-6640b6522e8a",
+    "messageId": 4,
+    "type": "user",
+    "message": "/chat list",
+    "timestamp": "2025-09-19T10:10:36.522Z"
+  },
+  {
+    "sessionId": "684bf5dd-0a75-4bf6-a512-6640b6522e8a",
+    "messageId": 5,
+    "type": "user",
+    "message": ":q",
+    "timestamp": "2025-09-19T10:10:48.116Z"
+  },
+  {
+    "sessionId": "ae9e16d3-1de0-4bcf-9d5e-45e07b0c8fe9",
+    "messageId": 0,
+    "type": "user",
+    "message": "/chat list",
+    "timestamp": "2025-09-19T10:11:03.643Z"
+  },
+  {
+    "sessionId": "ae9e16d3-1de0-4bcf-9d5e-45e07b0c8fe9",
+    "messageId": 1,
+    "type": "user",
+    "message": "/chat resume tag1",
+    "timestamp": "2025-09-19T10:11:11.673Z"
+  },
+  {
+    "sessionId": "ae9e16d3-1de0-4bcf-9d5e-45e07b0c8fe9",
+    "messageId": 2,
+    "type": "user",
+    "message": "/chat delete tag1",
+    "timestamp": "2025-09-19T10:12:00.740Z"
+  },
+  {
+    "sessionId": "ae9e16d3-1de0-4bcf-9d5e-45e07b0c8fe9",
+    "messageId": 3,
+    "type": "user",
+    "message": "/chat share file.md",
+    "timestamp": "2025-09-19T10:13:52.716Z"
+  },
+  {
+    "sessionId": "ae9e16d3-1de0-4bcf-9d5e-45e07b0c8fe9",
+    "messageId": 4,
+    "type": "user",
+    "message": "/clear",
+    "timestamp": "2025-09-19T10:15:06.825Z"
+  },
+  {
+    "sessionId": "ae9e16d3-1de0-4bcf-9d5e-45e07b0c8fe9",
+    "messageId": 5,
+    "type": "user",
+    "message": "/chat share file.md",
+    "timestamp": "2025-09-19T10:16:44.325Z"
+  },
+  {
+    "sessionId": "ae9e16d3-1de0-4bcf-9d5e-45e07b0c8fe9",
+    "messageId": 6,
+    "type": "user",
+    "message": "/chat share file.md",
+    "timestamp": "2025-09-19T10:17:10.539Z"
+  },
+  {
+    "sessionId": "ae9e16d3-1de0-4bcf-9d5e-45e07b0c8fe9",
+    "messageId": 7,
+    "type": "user",
+    "message": "Hola, quiero que te extiendas diciendome que puede hacer gemini-cli por mi",
+    "timestamp": "2025-09-19T10:19:04.836Z"
+  },
+  {
+    "sessionId": "ae9e16d3-1de0-4bcf-9d5e-45e07b0c8fe9",
+    "messageId": 8,
+    "type": "user",
+    "message": "/compress",
+    "timestamp": "2025-09-19T10:20:22.244Z"
+  },
+  {
+    "sessionId": "ae9e16d3-1de0-4bcf-9d5e-45e07b0c8fe9",
+    "messageId": 9,
+    "type": "user",
+    "message": "/chat share file.md",
+    "timestamp": "2025-09-19T10:20:55.764Z"
+  },
+  {
+    "sessionId": "ae9e16d3-1de0-4bcf-9d5e-45e07b0c8fe9",
+    "messageId": 10,
+    "type": "user",
+    "message": "/copy",
+    "timestamp": "2025-09-19T10:22:38.777Z"
+  },
+  {
+    "sessionId": "ae9e16d3-1de0-4bcf-9d5e-45e07b0c8fe9",
+    "messageId": 11,
+    "type": "user",
+    "message": "/directory show",
+    "timestamp": "2025-09-19T10:25:22.908Z"
+  },
+  {
+    "sessionId": "5490f18b-f993-44c5-8843-78b25daaf07d",
+    "messageId": 0,
+    "type": "user",
+    "message": "hola",
+    "timestamp": "2025-09-19T10:40:07.446Z"
+  },
+  {
+    "sessionId": "5490f18b-f993-44c5-8843-78b25daaf07d",
+    "messageId": 1,
+    "type": "user",
+    "message": "/memory show",
+    "timestamp": "2025-09-19T10:40:21.643Z"
+  },
+  {
+    "sessionId": "5490f18b-f993-44c5-8843-78b25daaf07d",
+    "messageId": 2,
+    "type": "user",
+    "message": "/memory add Say \"Bro\" always at first",
+    "timestamp": "2025-09-19T10:40:54.547Z"
+  },
+  {
+    "sessionId": "5490f18b-f993-44c5-8843-78b25daaf07d",
+    "messageId": 3,
+    "type": "user",
+    "message": "hoal",
+    "timestamp": "2025-09-19T10:40:58.654Z"
+  },
+  {
+    "sessionId": "5490f18b-f993-44c5-8843-78b25daaf07d",
+    "messageId": 4,
+    "type": "user",
+    "message": "/memory show",
+    "timestamp": "2025-09-19T10:41:13.531Z"
+  },
+  {
+    "sessionId": "5490f18b-f993-44c5-8843-78b25daaf07d",
+    "messageId": 5,
+    "type": "user",
+    "message": "/dir show",
+    "timestamp": "2025-09-19T10:41:50.235Z"
+  },
+  {
+    "sessionId": "cae19108-8a31-48aa-841f-d0390c3c7e33",
+    "messageId": 0,
+    "type": "user",
+    "message": "quiero que me muestres un resumen de @04-Proyectos/Me\\ gusta\\ Dragon\\ ball\\ The\\ Others.md. Este resumen debe ser como si yo continuera el documento",
+    "timestamp": "2025-09-19T12:18:59.891Z"
+  },
+  {
+    "sessionId": "7952c6f7-e26c-440a-946d-44e977242f18",
+    "messageId": 0,
+    "type": "user",
+    "message": "/settings",
+    "timestamp": "2025-09-19T12:26:36.475Z"
+  },
+  {
+    "sessionId": "7952c6f7-e26c-440a-946d-44e977242f18",
+    "messageId": 1,
+    "type": "user",
+    "message": "ls",
+    "timestamp": "2025-09-19T12:27:53.464Z"
+  },
+  {
+    "sessionId": "7952c6f7-e26c-440a-946d-44e977242f18",
+    "messageId": 2,
+    "type": "user",
+    "message": "ls -la",
+    "timestamp": "2025-09-19T12:27:56.966Z"
+  },
+  {
+    "sessionId": "7952c6f7-e26c-440a-946d-44e977242f18",
+    "messageId": 3,
+    "type": "user",
+    "message": "ls -la",
+    "timestamp": "2025-09-19T12:28:20.289Z"
+  },
+  {
+    "sessionId": "7952c6f7-e26c-440a-946d-44e977242f18",
+    "messageId": 4,
+    "type": "user",
+    "message": "git status",
+    "timestamp": "2025-09-19T12:28:44.150Z"
+  },
+  {
+    "sessionId": "6fe755e7-e776-429e-9733-e09d2e53ea8a",
+    "messageId": 0,
+    "type": "user",
+    "message": "/git:commit",
+    "timestamp": "2025-09-19T12:57:27.221Z"
+  },
+  {
+    "sessionId": "dce1d8f4-331a-43bb-ba4e-d10a7f9d4149",
+    "messageId": 0,
+    "type": "user",
+    "message": "/terminal-setup",
+    "timestamp": "2025-09-19T13:10:25.300Z"
+  },
+  {
+    "sessionId": "dce1d8f4-331a-43bb-ba4e-d10a7f9d4149",
+    "messageId": 1,
+    "type": "user",
+    "message": "/settings",
+    "timestamp": "2025-09-19T13:10:39.057Z"
+  },
+  {
+    "sessionId": "5dd869b2-1c59-48bc-84dd-b3babd8d1946",
+    "messageId": 0,
+    "type": "user",
+    "message": "Resumeme la nota diaria del día de hoy",
+    "timestamp": "2025-09-19T13:39:20.448Z"
+  },
+  {
+    "sessionId": "5dd869b2-1c59-48bc-84dd-b3babd8d1946",
+    "messageId": 1,
+    "type": "user",
+    "message": "Quiero que realizes un resumen del archivo @/home/nelson/MyPKM/04-Proyectos/Me-gusta-Dragon-ball-The-Others.md, el resumen debe ser como escrito por mi, y lo colocalo al final del documento dentro de un subtitulo llamado \"Resumen\".",
+    "timestamp": "2025-09-19T13:45:53.100Z"
+  },
+  {
+    "sessionId": "3367d221-250b-4be6-b4ba-45b244fca4b6",
+    "messageId": 0,
+    "type": "user",
+    "message": "Quiero que hagas un resumen como hecho por mi de la nota @/home/nelson/MyPKM/04-Proyectos/Me-gusta-Dragon-ball-The-Others.md y lo añadas al final del mismo.",
+    "timestamp": "2025-09-19T15:11:51.924Z"
+  },
+  {
+    "sessionId": "98a6e859-edc6-46a3-bfc3-0bd1480069bd",
+    "messageId": 0,
+    "type": "user",
+    "message": "Hola!",
+    "timestamp": "2025-09-19T16:28:01.999Z"
+  },
+  {
+    "sessionId": "98a6e859-edc6-46a3-bfc3-0bd1480069bd",
+    "messageId": 1,
+    "type": "user",
+    "message": "Dime como funciona este PKM",
+    "timestamp": "2025-09-19T16:28:22.513Z"
+  },
+  {
+    "sessionId": "cc6c372d-e977-4782-ad43-0882ad35a853",
+    "messageId": 0,
+    "type": "user",
+    "message": "En este repositorio git, quiero que busques en todos los commits existentes la palabra \"contra\"(puede estar en mayuscula el inicio) y me des la linea donde lo encontraste.",
+    "timestamp": "2025-09-20T18:57:47.248Z"
+  },
+  {
+    "sessionId": "cc6c372d-e977-4782-ad43-0882ad35a853",
+    "messageId": 1,
+    "type": "user",
+    "message": "Mejor busca \"contra\", \"zlibrary\", \"passwd\" y \"pass\"",
+    "timestamp": "2025-09-20T18:58:55.882Z"
+  },
+  {
+    "sessionId": "041ab29f-1a0f-4451-94e9-904fe526cebe",
+    "messageId": 0,
+    "type": "user",
+    "message": "porque no puedo hacer un git push?",
+    "timestamp": "2025-09-22T07:34:39.642Z"
+  },
+  {
+    "sessionId": "041ab29f-1a0f-4451-94e9-904fe526cebe",
+    "messageId": 1,
+    "type": "user",
+    "message": "Obtengo \"git@github.com: Permission denied (publickey).\nfatal: Could not read from remote repository.\n\nPlease make sure you have the correct access rights\nand the repository exists.\"\n\nSupongo que debería hacer un git push usando el host \"github-KuantumQuest\" que configure en .ssh/config para una llave ssh en especifico.",
+    "timestamp": "2025-09-22T07:36:25.049Z"
+  }
+]

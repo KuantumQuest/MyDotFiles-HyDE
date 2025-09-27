@@ -1,0 +1,79 @@
+[
+  {
+    "sessionId": "6af7d774-1514-4732-9c92-148afa28e007",
+    "messageId": 0,
+    "type": "user",
+    "message": "/memory add Siempre habla en español",
+    "timestamp": "2025-09-19T10:49:39.152Z"
+  },
+  {
+    "sessionId": "6af7d774-1514-4732-9c92-148afa28e007",
+    "messageId": 1,
+    "type": "user",
+    "message": "Se puede cambiar el nombre del archivo \"GEMINI.md\" y que gemini lo reconozca como el contexto. Por ejemplo yo prefiero más el nombre \".GEMINI.md\"",
+    "timestamp": "2025-09-19T10:52:02.720Z"
+  },
+  {
+    "sessionId": "6af7d774-1514-4732-9c92-148afa28e007",
+    "messageId": 2,
+    "type": "user",
+    "message": "Gemini-cli, no tiene alguna forma de configurar eso?",
+    "timestamp": "2025-09-19T10:52:35.522Z"
+  },
+  {
+    "sessionId": "6af7d774-1514-4732-9c92-148afa28e007",
+    "messageId": 3,
+    "type": "user",
+    "message": "/settings",
+    "timestamp": "2025-09-19T10:54:25.669Z"
+  },
+  {
+    "sessionId": "f38b3826-bdc5-4d66-b340-15eb1a85e5c5",
+    "messageId": 0,
+    "type": "user",
+    "message": "/stats",
+    "timestamp": "2025-09-19T10:56:45.664Z"
+  },
+  {
+    "sessionId": "f38b3826-bdc5-4d66-b340-15eb1a85e5c5",
+    "messageId": 1,
+    "type": "user",
+    "message": "/tools",
+    "timestamp": "2025-09-19T10:57:03.564Z"
+  },
+  {
+    "sessionId": "f38b3826-bdc5-4d66-b340-15eb1a85e5c5",
+    "messageId": 2,
+    "type": "user",
+    "message": "Explicame que son los \"workspaces\" y \"user\" en gemini-cli, y como se ingresa a cada uno de dichos modos.",
+    "timestamp": "2025-09-19T10:59:40.185Z"
+  },
+  {
+    "sessionId": "f38b3826-bdc5-4d66-b340-15eb1a85e5c5",
+    "messageId": 3,
+    "type": "user",
+    "message": "Pero cuando ingreso simplemente en modo user, igual gemini recibe el contexto de \"GEMINI.md\" y puede modificar archivos de la ruta actual. Es decir, funciona igual que como dijiste en el modo Workspace",
+    "timestamp": "2025-09-19T11:02:22.143Z"
+  },
+  {
+    "sessionId": "f38b3826-bdc5-4d66-b340-15eb1a85e5c5",
+    "messageId": 4,
+    "type": "user",
+    "message": "entonces donde queda el modo \"user\"?",
+    "timestamp": "2025-09-19T11:04:06.061Z"
+  },
+  {
+    "sessionId": "f38b3826-bdc5-4d66-b340-15eb1a85e5c5",
+    "messageId": 5,
+    "type": "user",
+    "message": "/settings",
+    "timestamp": "2025-09-19T11:04:45.635Z"
+  },
+  {
+    "sessionId": "f38b3826-bdc5-4d66-b340-15eb1a85e5c5",
+    "messageId": 6,
+    "type": "user",
+    "message": "Es que a veces yo ve \"user settings\" y \"workspace settings\" y la verdad es que no entiendo del todo sus diferencias",
+    "timestamp": "2025-09-19T11:05:16.021Z"
+  }
+]

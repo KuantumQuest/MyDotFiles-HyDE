@@ -1,0 +1,28 @@
+{
+  "general": {
+    "vimMode": false,
+    "editor": "nvim"
+  },
+  "security": {
+    "auth": {
+      "selectedType": "oauth-personal"
+    }
+  },
+  "ui": {
+    "theme": "Dracula"
+  },
+  "output": {
+    "format": "text"
+  },
+  "tools": {
+    "shell": {
+      "showColor": true
+    }
+  },
+  "context": {
+    "fileFiltering": {
+      "respectGeminiIgnore": true,
+      "respectGitIgnore": true
+    }
+  }
+}

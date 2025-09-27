@@ -1,0 +1,23 @@
+[
+  {
+    "sessionId": "899b2ed8-883e-425a-b155-1015c78b5a69",
+    "messageId": 0,
+    "type": "user",
+    "message": "Estoy intentango hacer `git remote add origin git@ github-KuantumQuest/MyDotFiles-HyDE.git`, pero no funciona. Yo ya he configurado \"github-KuantumQuest\" en @/home/nelson/.ssh/config para que use una llave en concreto y diriga a github.com",
+    "timestamp": "2025-09-20T09:49:21.462Z"
+  },
+  {
+    "sessionId": "899b2ed8-883e-425a-b155-1015c78b5a69",
+    "messageId": 1,
+    "type": "user",
+    "message": "quiero hacer un \"git push -u origin main\" pero obtengo un error",
+    "timestamp": "2025-09-20T09:50:45.406Z"
+  },
+  {
+    "sessionId": "899b2ed8-883e-425a-b155-1015c78b5a69",
+    "messageId": 2,
+    "type": "user",
+    "message": "Gracias!",
+    "timestamp": "2025-09-20T09:51:18.880Z"
+  }
+]

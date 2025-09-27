@@ -1,0 +1,64 @@
+{
+  "sessionId": "5490f18b-f993-44c5-8843-78b25daaf07d",
+  "projectHash": "ada922badf44a2b22b3781c3a9f3e45714f60196536f2b7657ad8b07dac0ae3b",
+  "startTime": "2025-09-19T10:40:08.086Z",
+  "lastUpdated": "2025-09-19T10:41:02.566Z",
+  "messages": [
+    {
+      "id": "8c0e1430-e2f2-4cc7-bd43-27e4f949f41d",
+      "timestamp": "2025-09-19T10:40:08.086Z",
+      "type": "user",
+      "content": "hola"
+    },
+    {
+      "id": "822998f9-9e5a-48b9-ab7f-0c621d4a727a",
+      "timestamp": "2025-09-19T10:40:10.696Z",
+      "type": "gemini",
+      "content": "¡Hola! Soy un asistente de gestión del conocimiento personal. ¿En qué puedo ayudarte hoy?",
+      "thoughts": [
+        {
+          "subject": "Formulating a response",
+          "description": "I'm crafting a response in Spanish now. I've decided to greet the user back and ask how I can be of assistance. I think it's a good, polite approach to get started.",
+          "timestamp": "2025-09-19T10:40:10.621Z"
+        }
+      ],
+      "tokens": {
+        "input": 8970,
+        "output": 19,
+        "cached": 0,
+        "thoughts": 31,
+        "tool": 0,
+        "total": 9020
+      },
+      "model": "gemini-2.5-pro"
+    },
+    {
+      "id": "8b5d820a-aafb-46c3-98a0-df9dde3adfe7",
+      "timestamp": "2025-09-19T10:40:59.284Z",
+      "type": "user",
+      "content": "hoal"
+    },
+    {
+      "id": "6d884ec2-55e9-48a0-a80d-dfa6a280f0c4",
+      "timestamp": "2025-09-19T10:41:02.566Z",
+      "type": "gemini",
+      "content": "¡Hola de nuevo! ¿Cómo puedo ayudarte?",
+      "thoughts": [
+        {
+          "subject": "Correcting User Input",
+          "description": "I've identified a typo in the user's input and, applying prior context, I'm presuming the intended greeting. I'm preparing a response that's friendly and supportive, aiming to assist as I did previously.",
+          "timestamp": "2025-09-19T10:41:02.546Z"
+        }
+      ],
+      "tokens": {
+        "input": 8991,
+        "output": 10,
+        "cached": 7960,
+        "thoughts": 55,
+        "tool": 0,
+        "total": 9056
+      },
+      "model": "gemini-2.5-pro"
+    }
+  ]
+}
