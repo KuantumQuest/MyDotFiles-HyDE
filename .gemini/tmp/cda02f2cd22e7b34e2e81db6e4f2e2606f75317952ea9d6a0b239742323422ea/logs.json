@@ -1,0 +1,30 @@
+[
+  {
+    "sessionId": "9b6dcef2-5587-439c-acd8-1f4c2658c570",
+    "messageId": 0,
+    "type": "user",
+    "message": "Estoy aprendinedo el primer tema de Biologia que incluye \"Teoria celular, Teoria de la evolución y taxonomia fundamental. Crees que es necesario que memorize las fechas o detalles como nombres de cientificos y lo que examinaron? Me gustaría saber en que debería centrarme. Estoy estudiando el grado de Fisica en la UNED.",
+    "timestamp": "2025-10-02T14:51:24.427Z"
+  },
+  {
+    "sessionId": "9b6dcef2-5587-439c-acd8-1f4c2658c570",
+    "messageId": 1,
+    "type": "user",
+    "message": "Estoy aprendinedo el primer tema de Biologia que incluye \"Teoria celular, Teoria de la evolución y taxonomia fundamental. Crees que es necesario que memorize las fechas o detalles como nombres de cientificos y lo que examinaron? Me gustaría saber en que debería centrarme. Estoy estudiando el grado de Fisica en la UNED.",
+    "timestamp": "2025-10-02T14:51:30.899Z"
+  },
+  {
+    "sessionId": "1b6d7eae-3efd-484c-82f3-b53aa94f4d74",
+    "messageId": 0,
+    "type": "user",
+    "message": "Dime, por qué se dice que la celula es la unidad basica de todos los organismos? Quiero una respuesta rigurosa no ambigüa, ni subjetiva",
+    "timestamp": "2025-10-02T15:31:04.311Z"
+  },
+  {
+    "sessionId": "1b6d7eae-3efd-484c-82f3-b53aa94f4d74",
+    "messageId": 1,
+    "type": "user",
+    "message": "Dime, por qué se dice que la celula es la unidad basica de todos los organismos? Quiero una respuesta rigurosa no ambigüa, ni subjetiva",
+    "timestamp": "2025-10-02T15:35:36.072Z"
+  }
+]

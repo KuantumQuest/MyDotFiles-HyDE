@@ -9,7 +9,7 @@ return {
         local image_path
         local current_file_path = vim.fn.expand("%:p:h")
         if string.find(current_file_path, PKM_path) then
-          image_path = PKM_path .. "08-Attachments/" ---@type string
+          image_path = PKM_path .. "/08-Attachments/" ---@type string
         else
           image_path = "Attachments"
         end

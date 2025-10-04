@@ -37,11 +37,11 @@
 
 #  This is your file 
 # Add your configurations here
-export PKMPATH="/home/nelson/MyPKM/"
+export PKMPATH="/home/nelson/MyPKM"
 export EDITOR=nvim
 
 # Para avante-nvim
-export AVANTE_GEMINI_API_KEY=AIzaSyAChoA_MCxi5mau6tyjph0iTvOYoWFw6Og
+export GEMINI_API_KEY=AIzaSyAChoA_MCxi5mau6tyjph0iTvOYoWFw6Og
 #export MORPH_API_KEY=sk-aObecV5aG4K7PP5zzuPYI2yFWVrfM00K15e_ZLId0qQNi9qZ
 
 # unset -f command_not_found_handler # Uncomment to prevent searching for commands not found in package manager

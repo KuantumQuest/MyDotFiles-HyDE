@@ -313,5 +313,173 @@
     "type": "user",
     "message": "Obtengo \"git@github.com: Permission denied (publickey).\nfatal: Could not read from remote repository.\n\nPlease make sure you have the correct access rights\nand the repository exists.\"\n\nSupongo que debería hacer un git push usando el host \"github-KuantumQuest\" que configure en .ssh/config para una llave ssh en especifico.",
     "timestamp": "2025-09-22T07:36:25.049Z"
+  },
+  {
+    "sessionId": "572a74be-6622-47ef-871c-17b7540107e2",
+    "messageId": 0,
+    "type": "user",
+    "message": "Lee el archivo @03-Areas/Grado-Fisica/UNED/Materias/Cuatrimestre-I/Biologia-UNED/Biologia-UNED.md .Dado que estoy estudiando por primera vez la asignatura de Biologia, no sé cuanto podría tomarme cada tema definido en el apartado \"Contenidos/temario\", por eso quiero que me ayudes definiendolos una fecha de inicio y final. Ten en cuenta que para el 6 de enero, ya debería de haber hecho todos los 9 temas, ya que depués de ese día estaría haciendo los laboratorios y repasando para el exámen final.",
+    "timestamp": "2025-10-02T10:02:00.299Z"
+  },
+  {
+    "sessionId": "572a74be-6622-47ef-871c-17b7540107e2",
+    "messageId": 1,
+    "type": "user",
+    "message": "Pero quiero que las fechas sean según su complejidad, para ello primero debes investigar que tan complejo son cada tema y según eso estimar los días que tomará. Ya que un tema que es más sencillo tomará menos días que otro tema que no lo sea tanto. Sería bueno que busques opinios de personas que han estudiado la asignatura de biologia en la uned.",
+    "timestamp": "2025-10-02T10:04:48.018Z"
+  },
+  {
+    "sessionId": "572a74be-6622-47ef-871c-17b7540107e2",
+    "messageId": 2,
+    "type": "user",
+    "message": "Ahora, ten en cuenta que la asignatura se estudiará todos los jueves con una media de 8 horas en dicho día.",
+    "timestamp": "2025-10-02T10:07:13.663Z"
+  },
+  {
+    "sessionId": "572a74be-6622-47ef-871c-17b7540107e2",
+    "messageId": 3,
+    "type": "user",
+    "message": "Tienes razón con la fecha del 25 de diciembre, ese día no podré estudiar. Ten en cuenta que todo esto son unas horas de aproximación, las PECs deben ajustarse a la planificación de los temas, esto es importante.",
+    "timestamp": "2025-10-02T10:11:18.821Z"
+  },
+  {
+    "sessionId": "572a74be-6622-47ef-871c-17b7540107e2",
+    "messageId": 4,
+    "type": "user",
+    "message": "El 1 de eneró si podré estudiar. Olvidaste colocar las fechas de inicio y final de cada tema",
+    "timestamp": "2025-10-02T10:16:40.169Z"
+  },
+  {
+    "sessionId": "572a74be-6622-47ef-871c-17b7540107e2",
+    "messageId": 5,
+    "type": "user",
+    "message": "Bien, perfecto. Ahora quiero que hagas lo mismo con @03-Areas/Grado-Fisica/UNED/Materias/Cuatrimestre-I/Quimica-UNED/Quimica-UNED.md , pero esta vez debes considerar no solo las fechas de las PEC, sino también las fechas de las tutorias y su contenido, ya que estas se han puesto así porque la UNED espera que el alumno haya cursado los temas para cada fecha de tutoria.",
+    "timestamp": "2025-10-02T11:00:25.758Z"
+  },
+  {
+    "sessionId": "572a74be-6622-47ef-871c-17b7540107e2",
+    "messageId": 6,
+    "type": "user",
+    "message": "Bien, perfecto. Ahora quiero que hagas lo mismo con @03-Areas/Grado-Fisica/UNED/Materias/Cuatrimestre-I/Quimica-UNED/Quimica-UNED.md , pero esta vez debes considerar no solo las fechas de las PEC, sino también las fechas de las tutorias y su contenido, ya que estas se han puesto así porque la UNED espera que el alumno haya cursado los temas para cada fecha de tutoria. \nEsta vez, esta asignatura se estudiaran los viernes, igual unas 8 horas aproximadamente cada día y la fecha límite es el 13 de Enero",
+    "timestamp": "2025-10-02T11:01:16.200Z"
+  },
+  {
+    "sessionId": "572a74be-6622-47ef-871c-17b7540107e2",
+    "messageId": 7,
+    "type": "user",
+    "message": "/chat save UNED",
+    "timestamp": "2025-10-02T11:02:47.689Z"
+  },
+  {
+    "sessionId": "572a74be-6622-47ef-871c-17b7540107e2",
+    "messageId": 8,
+    "type": "user",
+    "message": "/chat list",
+    "timestamp": "2025-10-02T11:02:52.580Z"
+  },
+  {
+    "sessionId": "cf78016c-7d21-4a05-b655-c672c017e80a",
+    "messageId": 0,
+    "type": "user",
+    "message": "/chat resume UNED",
+    "timestamp": "2025-10-02T12:21:59.870Z"
+  },
+  {
+    "sessionId": "cf78016c-7d21-4a05-b655-c672c017e80a",
+    "messageId": 1,
+    "type": "user",
+    "message": "Bien. Ahora quiero que hagas lo mismo con @03-Areas/Grado-Fisica/UNED/Materias/Cuatrimestre-I/FundamentosFisicaIII-UNED/Fundamentos-Fisica-III-UNED.md . Quiero que lo leas y analizes tanto las fechas de las PECs, fecha de tutorias y temas que abarcan y el temario para esta asignatura. Todo esto es para que crees una planificación desde que día y hasta cuando se estudia cada bloque. Esta asignatura se estudará los sábados y aproximadamente 8 horas al día, y la fecha límite es el 10 de enero. También deberías mencionar en que día y hora es mejor hacer las PECs. \nAntes de proseguir con la modificación del archivo, dime el plan más correcto para cumplir con esta asignatura.",
+    "timestamp": "2025-10-02T12:49:22.716Z"
+  },
+  {
+    "sessionId": "cf78016c-7d21-4a05-b655-c672c017e80a",
+    "messageId": 2,
+    "type": "user",
+    "message": "Ajustalo!",
+    "timestamp": "2025-10-02T12:54:32.328Z"
+  },
+  {
+    "sessionId": "cf78016c-7d21-4a05-b655-c672c017e80a",
+    "messageId": 3,
+    "type": "user",
+    "message": "Insertalo!",
+    "timestamp": "2025-10-02T12:54:41.535Z"
+  },
+  {
+    "sessionId": "cf78016c-7d21-4a05-b655-c672c017e80a",
+    "messageId": 4,
+    "type": "user",
+    "message": "Ahora haz lo mismo para la asignatura @03-Areas/Grado-Fisica/UNED/Materias/Cuatrimestre-I/MetodosMatematicosIV-UNED/MetodosmatematicosIV-UNED.md . No subestimes el poco contenido de items en el contenido del curso, antes debes hacer una investigación previa sobre cuales son los más dificiles y después estimar el tiempo aproximado que tomaría aprenderlo. Este se estudiarán los lunes. Este caso es un poco más dificil, ya que no hay contenido aún en las tutorias y ni siquiera hay fechas de PECs para intuir en que día termínaria de estudiar un tema, para solucionar esto debes buscar información sobre cursos pasados de la UNED de la asignatura.",
+    "timestamp": "2025-10-02T13:15:06.160Z"
+  },
+  {
+    "sessionId": "cf78016c-7d21-4a05-b655-c672c017e80a",
+    "messageId": 5,
+    "type": "user",
+    "message": "Vamos a ello!",
+    "timestamp": "2025-10-02T13:17:43.235Z"
+  },
+  {
+    "sessionId": "cf78016c-7d21-4a05-b655-c672c017e80a",
+    "messageId": 6,
+    "type": "user",
+    "message": "Ahora haz la misma investigación de los temas y elabora la estimacion de dias de estudios para @03-Areas/Grado-Fisica/UNED/Materias/Cuatrimestre-I/FisicaCuanticaI-UNED/FisicaCuanticaI-UNED.md de los diferentes temas. En este caso aún no hay tutorias en la que basarse para hacer la estimación, pero sí hay PECs, 4 en total.",
+    "timestamp": "2025-10-02T13:26:55.836Z"
+  },
+  {
+    "sessionId": "cf78016c-7d21-4a05-b655-c672c017e80a",
+    "messageId": 7,
+    "type": "user",
+    "message": "Olvide mencionarte que el día de estudio para esta asignatura es el martes. En este caso no se hará caso de los trabajos computacionales, ya que queremos aprovechar todo el tiempo posible. Y la fecha máxima que debería haber hecho todos los temas es el martes 13 de Enero.",
+    "timestamp": "2025-10-02T13:30:40.683Z"
+  },
+  {
+    "sessionId": "cf78016c-7d21-4a05-b655-c672c017e80a",
+    "messageId": 8,
+    "type": "user",
+    "message": "Me parece bien, insertalo!",
+    "timestamp": "2025-10-02T13:41:12.212Z"
+  },
+  {
+    "sessionId": "cf78016c-7d21-4a05-b655-c672c017e80a",
+    "messageId": 9,
+    "type": "user",
+    "message": "/chat save UNED",
+    "timestamp": "2025-10-02T13:42:00.054Z"
+  },
+  {
+    "sessionId": "cf78016c-7d21-4a05-b655-c672c017e80a",
+    "messageId": 10,
+    "type": "user",
+    "message": "exit",
+    "timestamp": "2025-10-02T13:42:03.699Z"
+  },
+  {
+    "sessionId": "cf78016c-7d21-4a05-b655-c672c017e80a",
+    "messageId": 11,
+    "type": "user",
+    "message": "/quit",
+    "timestamp": "2025-10-02T13:42:08.582Z"
+  },
+  {
+    "sessionId": "0216f06e-d72a-47f9-9be1-0db736d579bb",
+    "messageId": 0,
+    "type": "user",
+    "message": "/memory add \"Quiero que tomes el papel de un investigador de más de 30 años de experiencia en Biologia. Eres muy riguroso como un matemático. Estás para ayudarme en mi estudio de biologia\"",
+    "timestamp": "2025-10-02T14:45:14.220Z"
+  },
+  {
+    "sessionId": "0216f06e-d72a-47f9-9be1-0db736d579bb",
+    "messageId": 1,
+    "type": "user",
+    "message": "Quiero que tomes el papel de un investigador de más de 30 años de experiencia en Biologia. Eres muy riguroso como un matemático. Estás para ayudarme en mi estudio de biologia. Recuerda esto siempre para este chat.",
+    "timestamp": "2025-10-02T14:45:39.689Z"
+  },
+  {
+    "sessionId": "0216f06e-d72a-47f9-9be1-0db736d579bb",
+    "messageId": 2,
+    "type": "user",
+    "message": "Presentate",
+    "timestamp": "2025-10-02T14:46:17.629Z"
   }
 ]

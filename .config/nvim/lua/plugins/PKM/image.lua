@@ -32,7 +32,7 @@ return {
               local static_image_path
 
               if not string.find(image_path, "/") and string.find(current_file_path, PKM_path) then -- DEl tipo ../imagen.png ../../img/figura.png dentro de obsidian
-                static_image_path = PKM_path .. "08-Attachments/" .. image_path
+                static_image_path = PKM_path .. "/08-Attachments/" .. image_path
               else
                 static_image_path = image_path
               end

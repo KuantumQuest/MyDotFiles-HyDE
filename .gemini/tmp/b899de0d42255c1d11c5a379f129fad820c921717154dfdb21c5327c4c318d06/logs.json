@@ -740,5 +740,124 @@
     "type": "user",
     "message": "/chat save InskapeNotes",
     "timestamp": "2025-09-26T16:22:50.028Z"
+  },
+  {
+    "sessionId": "dc6179cb-a33e-4766-b691-8ab4a972543f",
+    "messageId": 0,
+    "type": "user",
+    "message": "Por qué no funciona lazygit en mi lazyvim si ya lo tengo instalado?",
+    "timestamp": "2025-09-27T11:19:53.199Z"
+  },
+  {
+    "sessionId": "a0689960-910d-4530-be09-b9271f65ec28",
+    "messageId": 0,
+    "type": "user",
+    "message": "GitHub-Copilot da apis gratis?",
+    "timestamp": "2025-09-27T14:57:38.380Z"
+  },
+  {
+    "sessionId": "a0689960-910d-4530-be09-b9271f65ec28",
+    "messageId": 1,
+    "type": "user",
+    "message": "Pero yo he estado usando copilot en neovim. Solo se abrio una pestaña en el navegador, le di a aceptar y pude usarlo gratuitamente. No recuerdo exactamente a que le di aceptar pero la cosa es que lo puedo usar sin problemas",
+    "timestamp": "2025-09-27T14:59:24.966Z"
+  },
+  {
+    "sessionId": "fc2a98b1-49a2-45b3-97f7-7b3b71844400",
+    "messageId": 0,
+    "type": "user",
+    "message": "Como configuro \"codecompanion\" (pluggin de neovim) para mi api gratuita de gemini?",
+    "timestamp": "2025-09-27T15:40:08.146Z"
+  },
+  {
+    "sessionId": "fc2a98b1-49a2-45b3-97f7-7b3b71844400",
+    "messageId": 1,
+    "type": "user",
+    "message": "Cuando habro el chat, neovim me suelta el mensaje:\n---\n[ERROR] 2025-09-27 17:44:04\nCopilot Adapter: No token found. Please refer to https://github.com/github/copilot.vim\n---",
+    "timestamp": "2025-09-27T15:45:35.343Z"
+  },
+  {
+    "sessionId": "4d568d9b-2a3a-4318-afc3-b6055a2587e6",
+    "messageId": 0,
+    "type": "user",
+    "message": "/chat resume InskapeNotes",
+    "timestamp": "2025-09-28T10:41:22.400Z"
+  },
+  {
+    "sessionId": "4d568d9b-2a3a-4318-afc3-b6055a2587e6",
+    "messageId": 1,
+    "type": "user",
+    "message": "/chat list",
+    "timestamp": "2025-09-28T10:42:06.283Z"
+  },
+  {
+    "sessionId": "b4e9f919-b792-4105-885b-10c760f384d3",
+    "messageId": 0,
+    "type": "user",
+    "message": "/chat list",
+    "timestamp": "2025-09-28T10:42:26.464Z"
+  },
+  {
+    "sessionId": "f5de8009-c280-45c4-a8be-78d67cbd3874",
+    "messageId": 0,
+    "type": "user",
+    "message": "Estoy por usar inkscape para mis apuntes en LaTeX. Lo que me gustaría es que mis dibujos que haga sean los más rápidos posibles, qué me sugieres para lograr ese propósito?",
+    "timestamp": "2025-09-28T14:34:07.430Z"
+  },
+  {
+    "sessionId": "f5de8009-c280-45c4-a8be-78d67cbd3874",
+    "messageId": 1,
+    "type": "user",
+    "message": "Hay algo más?",
+    "timestamp": "2025-09-28T14:36:03.143Z"
+  },
+  {
+    "sessionId": "d642fcb5-9292-4803-a069-b53e298d6d96",
+    "messageId": 0,
+    "type": "user",
+    "message": "Quiero que me calcules el tiempo en días y horas desde 2/10/2025 a las 12:00 hasta el 29/01/2026 a las 16:00",
+    "timestamp": "2025-10-02T09:37:16.053Z"
+  },
+  {
+    "sessionId": "d642fcb5-9292-4803-a069-b53e298d6d96",
+    "messageId": 1,
+    "type": "user",
+    "message": "Ahora quiero sin considerar fines de semana (sábado y domingo)",
+    "timestamp": "2025-10-02T09:41:08.231Z"
+  },
+  {
+    "sessionId": "c7442b83-5f13-4d07-8ec6-609b86e85be2",
+    "messageId": 0,
+    "type": "user",
+    "message": "Estoy haciendo una descripción del problema en Vinted y quisiera que mejores mi redacción. Esta redacción debe ser tan bueno que incluso si se tradujera a otro idioma debe seguir perfectamente entendible.\n---\nLas zapatillas se tratan de unas \"Nike Jordan 1 Retro High University Blue-LegitCheck\" y no me parecen que sean originales. Describiré los puntos que he notado:\n\n-  La parte inferior de las plantillas son grises en vez de azules.\n- Debajo de la plantilla tiene un color gris que no coincide con los pares originales.\n- Las etiquetas \"Nike Air\" en las lengüeta de los dos pares son disperejas, una está más arriba y el otro muy abajo.\n- La etiqueta trasera de \"Nike Air\" de la lengüeta está colocado hasta muy abajo, cuando en las originales siempre hay espacio en el inferior.\n- Existen problemas de costuras de fabricación.\n- El logo \"Air Jordan\" tienen varias imperfecciones (como se puede ver en una de las imagenes que he colocado)\n- La etiqueda dentro de las zapatillas, el codigo UPC está en el lugar incorrecto, debería estar debajo de las fechas; y las tallas puestas siempre se presentan de forma continua, no haciendo un salto de linea.\n- La forma trasera que debería tener las zapatillas originales debería ser en forma de reloj de arena.\n- Existen imperfecciones en formas de picos en la parte trasera de las zapatillas.\n\nAparte de las fotos de las zapatillas he colocado también imagenes de como debería ser el par original, se pueden indetificar porque dentro hay un texto que dice \"Authentic\" o \"Real\".\n---",
+    "timestamp": "2025-10-03T17:04:01.278Z"
+  },
+  {
+    "sessionId": "c7442b83-5f13-4d07-8ec6-609b86e85be2",
+    "messageId": 1,
+    "type": "user",
+    "message": "Estoy haciendo una descripción del problema en Vinted y quisiera que mejores mi redacción. Esta redacción debe ser tan bueno que incluso si se tradujera a otro idioma debe seguir perfectamente entendible.\n---\nLas zapatillas se tratan de unas \"Nike Jordan 1 Retro High University Blue-LegitCheck\" y no me parecen que sean originales. Describiré los puntos que he notado:\n\n-  La parte inferior de las plantillas son grises en vez de azules.\n- Debajo de la plantilla tiene un color gris que no coincide con los pares originales.\n- Las etiquetas \"Nike Air\" en las lengüeta de los dos pares son disperejas, una está más arriba y el otro muy abajo.\n- La etiqueta trasera de \"Nike Air\" de la lengüeta está colocado hasta muy abajo, cuando en las originales siempre hay espacio en el inferior.\n- Existen problemas de costuras de fabricación.\n- El logo \"Air Jordan\" tienen varias imperfecciones (como se puede ver en una de las imagenes que he colocado)\n- La etiqueda dentro de las zapatillas, el codigo UPC está en el lugar incorrecto, debería estar debajo de las fechas; y las tallas puestas siempre se presentan de forma continua, no haciendo un salto de linea.\n- La forma trasera que debería tener las zapatillas originales debería ser en forma de reloj de arena.\n- Existen imperfecciones en formas de picos en la parte trasera de las zapatillas.\n\nAparte de las fotos de las zapatillas he colocado también imagenes de como debería ser el par original, se pueden indetificar porque dentro hay un texto que dice \"Authentic\" o \"Real\".\n---",
+    "timestamp": "2025-10-03T17:04:05.828Z"
+  },
+  {
+    "sessionId": "c7442b83-5f13-4d07-8ec6-609b86e85be2",
+    "messageId": 2,
+    "type": "user",
+    "message": "Te estas equivocando con la etiqueta trasera de la lengüeta. Lo que pasa es que el texto detras ocupa todo, desde el límite superior hasta el inferior, cuando en el par original siempre hay un pequeño espacio en el inferior.\n\nY las costuras no diria que son de baja calidad, simplemente se puede apreciar que hay costuras irregulares. \n\nAdemás también seria bueno que dejaras en claro los \"picos\" de la parte trasera de la zapatilla.",
+    "timestamp": "2025-10-03T17:08:13.737Z"
+  },
+  {
+    "sessionId": "c7442b83-5f13-4d07-8ec6-609b86e85be2",
+    "messageId": 3,
+    "type": "user",
+    "message": "Las imagenes extras eran de internet. ¿Crees que sea valido para vinted? O solo debería limitarme a enviar fotos del producto?",
+    "timestamp": "2025-10-03T17:14:29.732Z"
+  },
+  {
+    "sessionId": "c7442b83-5f13-4d07-8ec6-609b86e85be2",
+    "messageId": 4,
+    "type": "user",
+    "message": "He elegido esta información para mi reclamación:\n---\nSolicito una revisión de este artículo, se tratan de una \"\"Nike Jordan 1 Retro High University Blue\", debido a que dudo seriamente de su autenticidad. Las zapatillas presentan múltiples inconsistencias en comparación con un par original. A continuación, detallo los defectos identificados:\n\n- Plantillas y base interior: La cara inferior de las plantillas es de color gris, cuando debería ser azul. Asimismo, el área visible debajo de las \n     plantillas (Strobel board) es de un color gris que no corresponde al de los pares auténticos.\n- Etiquetas de la lengüeta:\n       - Las etiquetas frontales \"Nike Air\" en ambas lengüetas están posicionadas de forma asimétrica; una está notablemente más alta que la otra.\n       - El texto impreso en la cara interna de la etiqueta de la lengüeta se extiende desde el borde superior hasta el borde inferior, sin dejar el margen de espacio libre que siempre existe en la parte de abajo en los pares originales.\n- Etiqueta de talla interna: El formato de la etiqueta es incorrecto. El código UPC no está en su posición correcta (debería estar debajo de las \n     fechas de fabricación) y el listado de tallas presenta un salto de línea, en lugar de mostrarse de forma continua.\n- Construcción y forma: La silueta del talón no tiene la distintiva forma de \"reloj de arena\" que caracteriza a los pares auténticos.\n- Calidad de acabados: Se observan múltiples defectos de fabricación, que incluyen:\n       - Costuras irregulares y poco uniformes en varias partes de la zapatilla.\n       - Los paneles de cuero en el talón presentan cortes imprecisos, creando pequeños \"picos\" o puntas de material sobrante que no existen en los \n         pares auténticos.\n       - Imperfecciones en el logo \"Air Jordan\" (Wings), como se puede apreciar en las imágenes.\n\nPara respaldar estos puntos, he adjuntado fotografías detalladas del producto recibido. Adicionalmente, he incluido imágenes de referencia de un par auténtico, las cuales se pueden identificar con el texto \"Authentic\" o \"Real\".\n---\nEl problema es que veo que vinted no respeta los multiples espacios o saltos de linea. Vinted simplemente los comprime. Quiero que modifiques lo que te he enviado para que sea legible incluso si Vinted lo comprime. No quisiera que añadas más información de la que tiene ya que me gusta como está. Solo quiero que sea legible",
+    "timestamp": "2025-10-03T17:17:56.713Z"
   }
 ]

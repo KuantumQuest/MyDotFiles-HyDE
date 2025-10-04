@@ -69,6 +69,7 @@ return {
         { name = "otter" },
         -- { name = "buffer", keyword_length = 5, max_item_count = 3 }, -- text within current buffer
         { name = "emoji" },
+        { name= "codecompanion"}
       }),
       view = {
         entries = "native",

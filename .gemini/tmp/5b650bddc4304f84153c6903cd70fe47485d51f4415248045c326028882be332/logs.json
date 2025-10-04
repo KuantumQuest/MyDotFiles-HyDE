@@ -1,0 +1,16 @@
+[
+  {
+    "sessionId": "aace2bd1-8f67-4c89-aca9-e8f21c35e397",
+    "messageId": 0,
+    "type": "user",
+    "message": "quiero hacer un git push, pero al clonar mi repositorio olvide colocar el Host que configurén en ~/.ssh/config para usar mi llave ssh",
+    "timestamp": "2025-09-28T11:00:50.768Z"
+  },
+  {
+    "sessionId": "aace2bd1-8f67-4c89-aca9-e8f21c35e397",
+    "messageId": 1,
+    "type": "user",
+    "message": "Es: \"github-NelsonAguirre\" que obviamente apunta al host github.com",
+    "timestamp": "2025-09-28T11:01:48.187Z"
+  }
+]

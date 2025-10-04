@@ -81,9 +81,8 @@ vim.keymap.set("n", "<leader>io", function()
       local static_image_path
 
       --Entonces se encuentra dentro del voult de obsidian
-      print(PKM_path)
       if not string.find(image_path, "/") and string.find(current_file_path, PKM_path) then -- DEl tipo ../imagen.png ../../img/figura.png dentro de obsidian
-        static_image_path = PKM_path .. "08-Attachments/" .. image_path
+        static_image_path = PKM_path .. "/08-Attachments/" .. image_path
       else
         static_image_path = current_file_path .. "/" .. image_path
       end
@@ -129,7 +128,7 @@ vim.keymap.set("n", "<leader>id", function()
       local static_image_path
       if string.find(current_file_path, PKM_path) and not string.find(image_path, "/") then
         --Entonces se encuentra dentro del voult de obsidian
-        static_image_path = PKM_path .. "08-Attachments/" .. image_path
+        static_image_path = PKM_path .. "/08-Attachments/" .. image_path
       else
         static_image_path = current_file_path .. "/" .. image_path
         print("static")
