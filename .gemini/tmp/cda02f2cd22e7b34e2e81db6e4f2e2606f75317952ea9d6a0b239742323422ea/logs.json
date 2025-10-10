@@ -26,5 +26,61 @@
     "type": "user",
     "message": "Dime, por qué se dice que la celula es la unidad basica de todos los organismos? Quiero una respuesta rigurosa no ambigüa, ni subjetiva",
     "timestamp": "2025-10-02T15:35:36.072Z"
+  },
+  {
+    "sessionId": "12b72c90-ac43-44a2-9093-47a73628234f",
+    "messageId": 0,
+    "type": "user",
+    "message": "Quiero que analices la nota @Notas/La\\ biologia\\ y\\ el\\ arbol\\ de\\ la\\ vida.md y me digas en que aspectos pueden mejorar y que definiciones o términos no son del todo correctos. Este es el tema 1 de mi asignatura de biologia.",
+    "timestamp": "2025-10-08T10:31:39.935Z"
+  },
+  {
+    "sessionId": "12b72c90-ac43-44a2-9093-47a73628234f",
+    "messageId": 1,
+    "type": "user",
+    "message": "/chat save tema1",
+    "timestamp": "2025-10-08T10:38:02.677Z"
+  },
+  {
+    "sessionId": "fe483afa-181a-43a5-beb2-86e4810588ca",
+    "messageId": 0,
+    "type": "user",
+    "message": "/chat resume tema1",
+    "timestamp": "2025-10-08T11:38:58.995Z"
+  },
+  {
+    "sessionId": "fe483afa-181a-43a5-beb2-86e4810588ca",
+    "messageId": 1,
+    "type": "user",
+    "message": "Yá he modificado según algunos puntos que me mencionaste. Ahora quiero que crees flashcards de esa nota.",
+    "timestamp": "2025-10-08T11:40:14.358Z"
+  },
+  {
+    "sessionId": "fe483afa-181a-43a5-beb2-86e4810588ca",
+    "messageId": 2,
+    "type": "user",
+    "message": "Acabo de adaptar la nota @Notas/Anki-Biologia-Tema1-UNED.md que es donde hiciste las flashcards, pero que he cambiado el nombre y lo he modificado un poco. Me gustaría que también incluyeras flashcards con el objetivo de reconocer los nombres más importantes en este tema, ya que una evaluación para este tema en particular es muy probable que se pregunten. Incluyelo al final de toda la nota, de esta forma separamos las flashcards muy importantes, con las flashcards no tan relevantes.",
+    "timestamp": "2025-10-08T11:51:29.139Z"
+  },
+  {
+    "sessionId": "fe483afa-181a-43a5-beb2-86e4810588ca",
+    "messageId": 3,
+    "type": "user",
+    "message": "Cuando ciertos rasgos heredables conducen a un mayor éxito en la producción de descendencia yse hacen más frecuentes en una población a lo largo del tiempo, estamos hablando del concepto de ...",
+    "timestamp": "2025-10-08T13:26:05.639Z"
+  },
+  {
+    "sessionId": "fe483afa-181a-43a5-beb2-86e4810588ca",
+    "messageId": 4,
+    "type": "user",
+    "message": "Por qué? Por qué no es la evolución?",
+    "timestamp": "2025-10-08T13:26:27.221Z"
+  },
+  {
+    "sessionId": "fe483afa-181a-43a5-beb2-86e4810588ca",
+    "messageId": 5,
+    "type": "user",
+    "message": "/chat save tema1",
+    "timestamp": "2025-10-08T13:31:40.969Z"
   }
 ]

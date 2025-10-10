@@ -481,5 +481,75 @@
     "type": "user",
     "message": "Presentate",
     "timestamp": "2025-10-02T14:46:17.629Z"
+  },
+  {
+    "sessionId": "33308504-092c-486a-9268-a71c3c336d7e",
+    "messageId": 0,
+    "type": "user",
+    "message": "a Veces escucho \"espacio euclideo\" y \"Espacio afín euclideo\". Ambos hacen referencia a lo mismo?",
+    "timestamp": "2025-10-06T14:33:29.742Z"
+  },
+  {
+    "sessionId": "33308504-092c-486a-9268-a71c3c336d7e",
+    "messageId": 1,
+    "type": "user",
+    "message": "Entiendo. Lo que hacemos es crear el espacio afín y luego lo convertimos a un espacio vectorial. Pero porque tanta complejidad? Porque no simplemente hablamos de espacios vectoriales y listo? Además tengo entendido que la \"distancia\" es propia de los puntos (un espacio afín) y no de un espacio vectorial, entonces que el espacio vectorial euclideo tenga una distancia me parece muy raro.",
+    "timestamp": "2025-10-06T14:37:06.800Z"
+  },
+  {
+    "sessionId": "33308504-092c-486a-9268-a71c3c336d7e",
+    "messageId": 2,
+    "type": "user",
+    "message": "Entonces como definirias el \"espacio vectorial euclideo\" sin recurrir al \"espacio afín euclideo\"? No se puede?",
+    "timestamp": "2025-10-06T14:44:03.617Z"
+  },
+  {
+    "sessionId": "33308504-092c-486a-9268-a71c3c336d7e",
+    "messageId": 3,
+    "type": "user",
+    "message": "Pero los conceptos geométricos, como la distancia y el angulo, no habías dicho que era propio de un espacio AFÍN euclideo?",
+    "timestamp": "2025-10-06T14:46:14.727Z"
+  },
+  {
+    "sessionId": "33308504-092c-486a-9268-a71c3c336d7e",
+    "messageId": 4,
+    "type": "user",
+    "message": "Pero los conceptos geométricos, como la distancia y el angulo, no habías dicho que era propio de un espacio AFÍN euclideo?",
+    "timestamp": "2025-10-06T14:48:58.475Z"
+  },
+  {
+    "sessionId": "33308504-092c-486a-9268-a71c3c336d7e",
+    "messageId": 5,
+    "type": "user",
+    "message": "Entonces no es necesario para nada estudiar los espacios afines ya que pueden ser razonados y solucionados pensando en espacios vectoriales?",
+    "timestamp": "2025-10-06T14:50:48.485Z"
+  },
+  {
+    "sessionId": "fb42913b-3492-4d3e-91d8-b0050fe67e08",
+    "messageId": 0,
+    "type": "user",
+    "message": "El espacio vectorial euclideo es un espacio de hilbert?",
+    "timestamp": "2025-10-06T15:16:41.402Z"
+  },
+  {
+    "sessionId": "e2d670f2-724d-4475-8fcf-f11fb9b40e39",
+    "messageId": 0,
+    "type": "user",
+    "message": "No entiendo de donde sale el potencial electrico al final (\\phi) de aquí:\n---\nPartimos del [[Ecuaciones de Maxwell fasorial#^ae905b|la ley de Faraday]].\n\n$$\n\\nabla \\times \\textbf{E}= - \\frac{\\partial \\textbf{B}}{\\partial t}= -\\frac{\\partial }{\\partial t}(\\nabla \\times \\textbf{A})=- \\nabla \\times  \\frac{\\partial \\textbf{A}}{\\partial t}\\\\\n$$\n\n$$\n\\begin{align*}\n  \\nabla \\times \\textbf{E}+\\nabla \\times  \\frac{\\partial \\textbf{A}}{\\partial t}= 0\\\\\n  \\nabla \\times \\left(\\textbf{E}+\\frac{\\partial \\textbf{A}}{\\partial t}\\right)= 0\n\\end{align*}\n$$\n\nEste resultado nos dice que el rotacional es cero y si consideramos que es\nsimplemente conexo, tenemos que existe un escalar $\\phi$ tal que\n\n$$\n\\textbf{E}+ \\frac{\\partial \\textbf{A}}{\\partial t}=- \\nabla \\phi\n$$\n\n$$\n\\boxed{\\textbf{E}=- \\nabla \\phi - \\frac{\\partial \\textbf{A}}{\\partial t}}\n$$\n\n^epot\n\nDonde convenientemente vemos que $\\phi$ es el potencial eléctrico. De esta forma\ntenemos el campo eléctrico en término de ambos potenciales.\n---",
+    "timestamp": "2025-10-07T15:18:08.209Z"
+  },
+  {
+    "sessionId": "e2d670f2-724d-4475-8fcf-f11fb9b40e39",
+    "messageId": 1,
+    "type": "user",
+    "message": "Por qué en una onda libre se dice que \"\\textbf{E}=- \\frac{\\partial \\textbf{A}}{\\partial t}\" sin considerar el potencial electrico?",
+    "timestamp": "2025-10-07T15:22:03.501Z"
+  },
+  {
+    "sessionId": "e2d670f2-724d-4475-8fcf-f11fb9b40e39",
+    "messageId": 2,
+    "type": "user",
+    "message": "Hay alguna diferencia en definir la onda como \"\\textbf{E}_0 e^{j(\\omega t- \\textbf{k}\\cdot\\textbf{r})}\" y como \"\\textbf{E}_0 e^{j(-\\omega t+ \\textbf{k}\\cdot\\textbf{r})}\"?",
+    "timestamp": "2025-10-07T15:51:33.015Z"
   }
 ]
