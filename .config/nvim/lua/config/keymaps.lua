@@ -17,4 +17,4 @@ require("config.keymaps.keys_vimtex")
 require("config.keymaps.keys_luasnip")
 
 ----- VARIOS ------
-vim.api.nvim_set_keymap("i", "<c-t>", "<c-g>u<Esc>[s1z=`^a<c-g>u", { noremap = true, silent = true })
+vim.api.nvim_set_keymap("i", "<c-r>", "<c-g>u<Esc>[s1z=`^a<c-g>u", { noremap = true, silent = true })

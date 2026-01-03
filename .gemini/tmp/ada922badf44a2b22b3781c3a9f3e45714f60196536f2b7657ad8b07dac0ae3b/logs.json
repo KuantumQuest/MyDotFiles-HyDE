@@ -551,5 +551,61 @@
     "type": "user",
     "message": "Hay alguna diferencia en definir la onda como \"\\textbf{E}_0 e^{j(\\omega t- \\textbf{k}\\cdot\\textbf{r})}\" y como \"\\textbf{E}_0 e^{j(-\\omega t+ \\textbf{k}\\cdot\\textbf{r})}\"?",
     "timestamp": "2025-10-07T15:51:33.015Z"
+  },
+  {
+    "sessionId": "8e4348a9-d575-4d86-af38-da4b09a09d22",
+    "messageId": 0,
+    "type": "user",
+    "message": "Según la nota @06-Recursos/Principio\\ de\\ la\\ entropia\\ y\\ la\\ segunda\\ ley\\ de\\ la\\ termodinamica.md , como se pude demostrar que para procesos reversibles $\\Delta S_{\\text{sistema}}=-\\Delta S_{\\text{alrededores}}= \\frac{q_{\\text{rev}}}{T}$ (por tanto $\\Delta S_{\\text{universo}}=0$) y que para procesos irreversibles $\\Delta S_{\\text{universo}} >0$ y $\\Delta S_{\\text{sistema}}> \\frac{q_{\\text{irrev}}}{T}$ (Todo a temperatura constante)",
+    "timestamp": "2025-11-28T15:21:35.830Z"
+  },
+  {
+    "sessionId": "8e4348a9-d575-4d86-af38-da4b09a09d22",
+    "messageId": 1,
+    "type": "user",
+    "message": "Si un sistema aumenta su entropia, la entropia del entorno podría subir o bajar. ¿O acaso la entropia del entorno está estrechaemnte ligado con el del sistema, si no baja el otro sube y viceversa?",
+    "timestamp": "2025-11-28T15:50:53.817Z"
+  },
+  {
+    "sessionId": "8e4348a9-d575-4d86-af38-da4b09a09d22",
+    "messageId": 2,
+    "type": "user",
+    "message": "Entonces si sé que la entropia de mi sistema aumenta, no necesariamente sabría si la entropía del universo aumenta ya que no sé que valor podría tener la entropía de los alrededores?",
+    "timestamp": "2025-11-28T15:54:39.811Z"
+  },
+  {
+    "sessionId": "8e4348a9-d575-4d86-af38-da4b09a09d22",
+    "messageId": 3,
+    "type": "user",
+    "message": "En mi estudio de química (formación de moléculas) se utiliza la energía libre de Gibbs como una forma de saltarnos la necesidad de saber de saber la entropia del entorno para determinar si la entropia del universo aumenta.",
+    "timestamp": "2025-11-28T16:01:50.281Z"
+  },
+  {
+    "sessionId": "7b525880-9a99-4c78-8a55-bc59ba39d69c",
+    "messageId": 0,
+    "type": "user",
+    "message": "Este es el teorema de existencia y unicidad de una EDO de orden 1:\n---\n> [!Teorema] Teorema de la existencia y unicidad (Picard-Lindelöf)\n>\n> Sea $f(x, y)$ una función continua en una región $R \\subseteq \\mathbb{R}^2$ y\n> supongamos que su derivada parcial $\\frac{\\partial f}{\\partial y}$ es\n> **también continua** en un entorno de un punto $(x_0, y_0) \\in R$. Entonces,\n> existe un intervalo $B(x_0, \\varepsilon) \\subseteq R$ centrado en $x_0$, tal\n> que **existe una única solución** $y(x)$ del problema de Cauchy:\n>\n> $$y'(x) = f(x, y), \\quad y(x_0) = y_0$$\n>\n> en ese intervalo.\n---\n\nPero que pasa si quiero hallar una solución para x pertenciente a los reales? El teorema solo me indica que es único para un entorno de x_0 no que la solución sea única para todo x",
+    "timestamp": "2025-12-31T12:55:29.305Z"
+  },
+  {
+    "sessionId": "7b525880-9a99-4c78-8a55-bc59ba39d69c",
+    "messageId": 1,
+    "type": "user",
+    "message": "Es esto corecto?:\n> [!definicion] EDO lineal de primer orden. $$\\frac{dy}{dx} + a_0(x)\\,y = a(x),$$\n\nEl teorema de existencia y unicidad se modifica, de forma que existe solución al problema de Cauchy\nen un entorno de $(x_0,y_0)$ si:\n\n- $a(x)$ y $a_0(x) y$ es continua en $R \\subset \\mathbb{R}^2$ y\n- $a_0(x)$ es continua en un en un entorno del punto $(x_0,y_0) \\in R$.",
+    "timestamp": "2025-12-31T15:36:49.438Z"
+  },
+  {
+    "sessionId": "7b525880-9a99-4c78-8a55-bc59ba39d69c",
+    "messageId": 2,
+    "type": "user",
+    "message": "Por que solo debemos verficar la continuidad de a(x) y a_0(x)? No se supone que f(x,y) era continuo en un rectangulo xy? Debería ser continuo ya_0(x), no podemos ignorar y.",
+    "timestamp": "2025-12-31T15:41:05.879Z"
+  },
+  {
+    "sessionId": "7b525880-9a99-4c78-8a55-bc59ba39d69c",
+    "messageId": 3,
+    "type": "user",
+    "message": "El teorema de existencia y unicidad no era local? Por qué en este caso no lo es?",
+    "timestamp": "2025-12-31T15:44:39.928Z"
   }
 ]

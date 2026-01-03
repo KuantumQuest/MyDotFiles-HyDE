@@ -27,9 +27,9 @@ require("lazy").setup({
   -- {
   --   import = "plugins.Python",
   -- },
-  -- {
-  --   import = "plugins.Quarto",
-  -- },
+  {
+    import = "plugins.Quarto",
+  },
   {
     import = "plugins.PKM",
   },

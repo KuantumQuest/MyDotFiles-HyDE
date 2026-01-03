@@ -52,6 +52,7 @@ stow .
 - lsd
 - bat
 - mpv
+- yt-x
 - wget
 - nvim
   - imagemagick
@@ -59,6 +60,7 @@ stow .
   - lazygit
   - pyright (paru -S pyright)
 - gemini-cli
+- w3m
 
 ### Utilidades secundarias
 
@@ -67,7 +69,14 @@ stow .
 - cava
 - cmatrix
 - btop
+- veracrypt
 
 ```bash
-paru -S gnupg pass pass-otp pass-coffin sxiv obsidian anki zen-browser zathura zathura-pdf-poppler sioyek lsd bat mpv wget nvim imagemagick tree-sitter-cli lazygit pyright gemini-cli texlive-full gimp wf-recorder cava cmatrix btop
+paru -S gnupg pass pass-otp pass-coffin sxiv obsidian anki zen-browser zathura zathura-pdf-poppler sioyek lsd bat mpv yt-x-git wget nvim imagemagick tree-sitter-cli lazygit pyright gemini-cli texlive-full gimp wf-recorder cava cmatrix btop veracrypt w3m
+```
+
+uosc para mpv:
+
+```bash
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/tomasklaen/uosc/HEAD/installers/unix.sh)"
 ```

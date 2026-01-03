@@ -271,5 +271,215 @@
     "type": "user",
     "message": "ok",
     "timestamp": "2025-10-10T14:50:21.652Z"
+  },
+  {
+    "sessionId": "8ba08927-bf20-414f-9a1a-a623c44b857c",
+    "messageId": 0,
+    "type": "user",
+    "message": "que son los iones isoelectrónicos positivos? Da un ejemplo simple",
+    "timestamp": "2025-10-16T12:31:20.907Z"
+  },
+  {
+    "sessionId": "c350956c-b10b-42c6-b11d-96ed55c32f06",
+    "messageId": 0,
+    "type": "user",
+    "message": "Qué es la energía reticular en el enlace ionico y por qué es tán importante estudiarlo?",
+    "timestamp": "2025-10-16T14:23:33.653Z"
+  },
+  {
+    "sessionId": "c350956c-b10b-42c6-b11d-96ed55c32f06",
+    "messageId": 1,
+    "type": "user",
+    "message": "y que es?",
+    "timestamp": "2025-10-16T14:25:13.663Z"
+  },
+  {
+    "sessionId": "c350956c-b10b-42c6-b11d-96ed55c32f06",
+    "messageId": 2,
+    "type": "user",
+    "message": "Entonces es la energía liberada al formar un enlace ionico o es la energía liberada al formar una estructura ionica(energía liberada de multiples enlaces ionicos)?",
+    "timestamp": "2025-10-16T14:31:42.505Z"
+  },
+  {
+    "sessionId": "c350956c-b10b-42c6-b11d-96ed55c32f06",
+    "messageId": 3,
+    "type": "user",
+    "message": "Pero una red cristalina puede ser de multiples dimensiones. Acaso te refieres a la energía liberada producto de una «celdilla unidad»?",
+    "timestamp": "2025-10-16T14:33:44.473Z"
+  },
+  {
+    "sessionId": "c350956c-b10b-42c6-b11d-96ed55c32f06",
+    "messageId": 4,
+    "type": "user",
+    "message": "Quiero que leas mi nota @Notas/Enlace\\ Ionico.md y me digas si la información está bien o no. Sé que no he sido super riguroso en esa nota, eso es porque no es mi objetivo ahora mismo eso, sino ser un poco superficial.",
+    "timestamp": "2025-10-16T15:39:57.598Z"
+  },
+  {
+    "sessionId": "c350956c-b10b-42c6-b11d-96ed55c32f06",
+    "messageId": 5,
+    "type": "user",
+    "message": "Listo he modificado un poco mi nota. Ahora lo que quiero es que me ayudes a generar flashcards para esa nota.",
+    "timestamp": "2025-10-16T15:46:31.465Z"
+  },
+  {
+    "sessionId": "c350956c-b10b-42c6-b11d-96ed55c32f06",
+    "messageId": 6,
+    "type": "user",
+    "message": "Listo he modificado un poco mi nota. Ahora lo que quiero es que lo vuelvas a leer y  que me ayudes a generar flashcards para esa nota.",
+    "timestamp": "2025-10-16T15:46:48.125Z"
+  },
+  {
+    "sessionId": "b63d0a3b-82e6-4708-ac06-0e5769d73818",
+    "messageId": 0,
+    "type": "user",
+    "message": "Estoy haciendo la nota @Notas/Enlace\\ quimico\\ covalente.md y tengo las siguientes dudas:\n- Si \\psi_- es la soluicón no enlazante por qué se considera un OM si no contribuye a la formación de esta.\n- Acaso para un OM existes 2 orbitales \\psi_+ y \\psi_-, si fuese así como sería posible aquello?",
+    "timestamp": "2025-10-30T10:37:10.469Z"
+  },
+  {
+    "sessionId": "b63d0a3b-82e6-4708-ac06-0e5769d73818",
+    "messageId": 1,
+    "type": "user",
+    "message": "Se dice que existe una combinación OM sigma para s-px, pero al momento de hacer la configuración electronica de una molécula biatómica, siempre existe la combinación px-px no s-px",
+    "timestamp": "2025-10-30T12:59:49.975Z"
+  },
+  {
+    "sessionId": "b63d0a3b-82e6-4708-ac06-0e5769d73818",
+    "messageId": 2,
+    "type": "user",
+    "message": "La unicon s-px entonces lo da solo algunas moleculas biatomicas heterogeneas o todas ellas?",
+    "timestamp": "2025-10-30T13:09:15.978Z"
+  },
+  {
+    "sessionId": "8d3c098a-6d56-4a6a-828d-94d46b3209a7",
+    "messageId": 0,
+    "type": "user",
+    "message": "He realizado las notas @Notas/Enlace\\ quimico\\ covalente.md  y @Notas/Teoria\\ de\\ orbitales\\ moleculares.md (que va dentro del primero). Quiero que me ayudes generando flashcards",
+    "timestamp": "2025-10-30T16:56:08.752Z"
+  },
+  {
+    "sessionId": "572e3bc3-d86a-418a-939c-59048aa4f296",
+    "messageId": 0,
+    "type": "user",
+    "message": "Qu",
+    "timestamp": "2025-11-14T15:36:42.832Z"
+  },
+  {
+    "sessionId": "572e3bc3-d86a-418a-939c-59048aa4f296",
+    "messageId": 1,
+    "type": "user",
+    "message": "Qué es la forma resonante de una molécula?",
+    "timestamp": "2025-11-14T15:36:52.534Z"
+  },
+  {
+    "sessionId": "572e3bc3-d86a-418a-939c-59048aa4f296",
+    "messageId": 2,
+    "type": "user",
+    "message": "Y como se define la energía de resonancia?",
+    "timestamp": "2025-11-14T15:46:59.886Z"
+  },
+  {
+    "sessionId": "572e3bc3-d86a-418a-939c-59048aa4f296",
+    "messageId": 3,
+    "type": "user",
+    "message": "No he dicho que crees flashcards!\n\nNo entiendo muy bien a como se debería calcular al energía de la forma resonante más estable, acaso las formas resonantes no tiene la misma energía?",
+    "timestamp": "2025-11-14T15:52:04.386Z"
+  },
+  {
+    "sessionId": "f7e4f850-2e0b-4b1f-93df-421b866acffa",
+    "messageId": 0,
+    "type": "user",
+    "message": "Los orbitales $\\sigma$ tienen mayor energía que los $\\pi$, esto es debido a que los $\\sigma$ se forman por solapación frontal. ¿Por qué el solapamiento frontal implica más energía?",
+    "timestamp": "2025-11-14T16:06:34.484Z"
+  },
+  {
+    "sessionId": "f7e4f850-2e0b-4b1f-93df-421b866acffa",
+    "messageId": 1,
+    "type": "user",
+    "message": "Qué significa que una molecula sea reactivo?",
+    "timestamp": "2025-11-14T16:11:13.744Z"
+  },
+  {
+    "sessionId": "f7e4f850-2e0b-4b1f-93df-421b866acffa",
+    "messageId": 2,
+    "type": "user",
+    "message": "Por qué que una molecula tenga enlaces pi lo hace más reactivo?",
+    "timestamp": "2025-11-14T16:12:50.917Z"
+  },
+  {
+    "sessionId": "66db5821-6a91-45d2-ae72-9c2f3c1fecb6",
+    "messageId": 0,
+    "type": "user",
+    "message": "Quiero que me ayudes a crear flashcards para la nota @Notas/Termodinamica\\ quimica.md",
+    "timestamp": "2025-11-28T17:36:45.767Z"
+  },
+  {
+    "sessionId": "d2fc2430-eb0f-4536-866e-4de8dc3a09f5",
+    "messageId": 0,
+    "type": "user",
+    "message": "Qué es un catalizador en química?",
+    "timestamp": "2025-12-05T15:14:35.276Z"
+  },
+  {
+    "sessionId": "d2fc2430-eb0f-4536-866e-4de8dc3a09f5",
+    "messageId": 1,
+    "type": "user",
+    "message": "Quiero que me ayudes a crear flashcards de la nota @Notas/Equilibrio\\ quimico.md . Toda información presente es relevante.",
+    "timestamp": "2025-12-05T15:39:07.633Z"
+  },
+  {
+    "sessionId": "d2fc2430-eb0f-4536-866e-4de8dc3a09f5",
+    "messageId": 2,
+    "type": "user",
+    "message": "Quiero que me ayudes a crear flashcards de la nota @Notas/Equilibrio\\ quimico.md . Toda información presente es relevante. No te inventes cosas simplemente haz flashcards de lo que hay en la nota",
+    "timestamp": "2025-12-05T15:39:23.648Z"
+  },
+  {
+    "sessionId": "d2fc2430-eb0f-4536-866e-4de8dc3a09f5",
+    "messageId": 3,
+    "type": "user",
+    "message": "Quiero que me ayudes a crear flashcards de la nota @Notas/Equilibrio\\ quimico.md . Toda información presente es relevante. No temas en usar imagnees",
+    "timestamp": "2025-12-05T15:40:29.710Z"
+  },
+  {
+    "sessionId": "303d508e-16bd-424a-ac6d-fbf3b0cfd0e5",
+    "messageId": 0,
+    "type": "user",
+    "message": "---\nSea un recipiente con agua, entonces\n$$\n\\ce{H2O_{(l)} + H2O_{(l)} <=> OH-_{(ac)} +H3O+_{(ac)}}\n$$\n\n$$\nK_c= \\frac{[\\ce{OH-}][\\ce{H3O+}]}{[\\ce{H2O}]^2} \\implies K_{w}=K_{c}[\\ce{H2O}]^2=[\\ce{OH-}][\\ce{H3O+}]\n$$\n---\n\nPor qué K_c considera todos los términos de la reacción? No se supone que cuando es heterogéneo entonces K_c solo depende de los gases?",
+    "timestamp": "2025-12-12T18:28:23.355Z"
+  },
+  {
+    "sessionId": "ff53cfe1-a5a6-42a5-8d1f-1cc9fc5d8dbf",
+    "messageId": 0,
+    "type": "user",
+    "message": "Dime rápido, como puedo identificar a un peroxido",
+    "timestamp": "2026-01-02T18:53:06.254Z"
+  },
+  {
+    "sessionId": "ff53cfe1-a5a6-42a5-8d1f-1cc9fc5d8dbf",
+    "messageId": 1,
+    "type": "user",
+    "message": "Solo tiene que haber  O2?",
+    "timestamp": "2026-01-02T18:53:40.578Z"
+  },
+  {
+    "sessionId": "ff53cfe1-a5a6-42a5-8d1f-1cc9fc5d8dbf",
+    "messageId": 2,
+    "type": "user",
+    "message": "No estas respondiendo como deberías. Te pregunte como identifico a un peroxido y ahora me dices que debe tener enlace de oxidación -1, ahora yo te pregunto ¿Cómo sé que el oxigeno tiene estado de oxidación -1?",
+    "timestamp": "2026-01-02T18:56:06.249Z"
+  },
+  {
+    "sessionId": "ff53cfe1-a5a6-42a5-8d1f-1cc9fc5d8dbf",
+    "messageId": 3,
+    "type": "user",
+    "message": "El libro menciona que en las  combinaciones entre los no metales donde no haya $\\ce{H}$ ni $\\ce{O}$, se le asigna el número de oxidación negativo, con un valor numérico igual a la de la carga de su ion negativo más frecuente. Siento que esto está mal porque no es objetivo, que quiere decir con \"más frecuente\"",
+    "timestamp": "2026-01-02T19:33:05.258Z"
+  },
+  {
+    "sessionId": "ff53cfe1-a5a6-42a5-8d1f-1cc9fc5d8dbf",
+    "messageId": 4,
+    "type": "user",
+    "message": "Entiendo lo que dices de la electronegatividad, lo que no entiendo es como podría saber de forma automatica el valor númerico",
+    "timestamp": "2026-01-02T19:35:09.292Z"
   }
 ]

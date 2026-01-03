@@ -53,6 +53,12 @@ alias cat="bat --style=plain"
 alias catn="/bin/cat"
 alias vim="nvim"
 alias icat="kitty +kitten icat"
+
+wsearch() {
+    # Reemplaza los espacios por '+' para que la URL sea válida
+    local query=$(echo "$*" | tr ' ' '+')
+    w3m "https://duckduckgo.com/html/?q=$query"
+}
   
 # Variables
 
