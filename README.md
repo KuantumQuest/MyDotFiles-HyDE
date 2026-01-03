@@ -37,6 +37,8 @@ stow .
 
 > Todos estos son paquetes!.
 
+- man
+- p7zip
 - gpg
 - pass
   - pass-otp
