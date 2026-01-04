@@ -2,7 +2,7 @@ return {
   "oflisback/obsidian-bridge.nvim",
   opts = {
     -- your config here
-    scroll_sync=true
+    scroll_sync=true,
   },
   event = {
     "BufReadPre *.md",
