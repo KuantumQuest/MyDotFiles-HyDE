@@ -63,3 +63,5 @@ wsearch() {
 # Variables
 
 export PASSWORD_STORE_ENABLE_EXTENSIONS=true
+
+export OBSIDIAN_REST_API_KEY="719d5da45705540d9e5d4c8e514e9301d3db0afc0bea6c7aa4da885d7209e711"
